@@ -1,5 +1,16 @@
-# Homework_mobile_development
-Homeworks_as_much_as_I_did.
+# hw_simple_calculator
 
-https://drive.google.com/file/d/1ZIzn7pUe_eeg-O3prkO5rhEDmmW06qXW/view?usp=sharing 
-This link to the last task I couldn't upload it on Github But left the link ^
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
